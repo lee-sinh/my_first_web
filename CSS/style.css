@@ -1,0 +1,70 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: white;
+}
+.center a{
+    text-decoration: none;
+    color: black;
+}
+.center a:hover{
+    color: grey;
+}
+.gap{
+    gap: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#sl{
+    font-size: x-large;
+    color: black;
+}
+.logo{
+    width: 3%;
+}
+.nameTable{
+    width: 10%;
+    text-align: center;
+    border-collapse:collapse;
+    padding: 10%;
+    background-color: darkmagenta;
+    color: white;
+    border: 5px solid darkmagenta;
+}
+.letter{
+    margin-left: 15px;
+}
+.table{
+    width: 25%;
+    border-spacing: 10px;
+}
+#td1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3%;
+    text-align: center;
+    border-color: darkmagenta;
+    color: white;
+    background-color: darkmagenta;
+}
+#td2{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3%;
+    text-align: center;
+    border-color: darkmagenta;
+    color: darkmagenta;
+}
+.center-col{
+   float: right;
+}
+.profile{
+    width: 25%;
+    border-radius: 50%;
+}
+
+
+
+
